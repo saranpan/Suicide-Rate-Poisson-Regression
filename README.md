@@ -40,7 +40,7 @@ As we mentioned before that we use the dataset collected by WHO, so here is s th
 5. *Population* : The number of population of that country (numerical)
 <br>
 **Response variable** : 
-1.*Suicides_no* : suicide count (numerical)
+1. *Suicides_no* : suicide count (numerical)
 
 ![figure1](https://github.com/wallik2/Suicide_rate_Poisson_regression/blob/main/figure/fig1.png?raw=true)
 <center>Figure 1 : first ten rows of the data</center>
