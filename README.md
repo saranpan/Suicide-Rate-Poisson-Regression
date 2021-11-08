@@ -33,11 +33,11 @@ However, our limitation is only the country that belongs to Asia will be inspect
 As we mentioned before that we use the dataset collected by WHO, so here is s the original dataset : [WHO Suicide Statistics](https://www.kaggle.com/szamil/who-suicide-statistics)
 
 **Explanatory variable** :
-1.*Country* : there are 27 countries eg. Albania, Thailand, Japan (categorical)
-2.*Year* : The time period happens eg. 1986, 2012 (numerical)
-3.*Sex*: Male and female (categorical)
-4.*Age* : The age range of the population eg. 15-24 years, 75+ years (categorical)
-5.*Population* : The number of population of that country (numerical)
+1. *Country* : there are 27 countries eg. Albania, Thailand, Japan (categorical)
+2. *Year* : The time period happens eg. 1986, 2012 (numerical)
+3. *Sex*: Male and female (categorical)
+4. *Age* : The age range of the population eg. 15-24 years, 75+ years (categorical)
+5. *Population* : The number of population of that country (numerical)
 <br>
 **Response variable** : 
 1.*Suicides_no* : suicide count (numerical)
