@@ -43,6 +43,8 @@ As we mentioned before that we use the dataset collected by WHO, so here is s th
 **Response variable** : 
 1. *Suicides_no* : suicide count (numerical)
 
+Here's the first ten rows of the data we clean
+
 ![figure1](https://github.com/wallik2/Suicide_rate_Poisson_regression/blob/main/figure/fig1.png?raw=true)
 <center>Figure 1 : first ten rows of the data</center>
 
